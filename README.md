@@ -1,1 +1,29 @@
 # Star-Wars
+Ce projet est une application Angular intégrant Apollo GraphQL pour la gestion des requêtes GraphQL, et utilise Tailwind CSS pour la mise en page et le stylage.
+
+# Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+# npms: apollo-angular tailwind css
+# Configuration apollo angular <<app.module.ts>>.
+# Ajouter un service <<graphql.services.ts>>.
+# Creation de 3 trois component <<filmslists,peoplelists,vihuleslists>>et l'utilisation de service graphql dans ces trois derniers.
+# Tester les trois components:
+should create the app
+SPEC HAS NO EXPECTATIONS should have the 'Star' title
+should render title
+FilmsListComponent
+should handle empty films list
+should handle error when fetching films
+should fetch films on init
+should create
+PeopleListComponent
+should handle empty people list
+should handle error when fetching people
+should fetch people on init
+should create
+VehiclesListComponent
+should handle error when fetching vehicles
+should fetch vehicles on init
+should create
+# Appliquer le tailwind css.
