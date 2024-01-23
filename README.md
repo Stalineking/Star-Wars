@@ -1,9 +1,8 @@
 # Star-Wars
 Ce projet est une application Angular intégrant Apollo GraphQL pour la gestion des requêtes GraphQL, et utilise Tailwind CSS pour la mise en page et le stylage.
 
-# Development server
-Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
-
+# Development serveur
+Exécutez ng serve pour un serveur de développement. Accédez à http://localhost:4200/ dans votre navigateur. L'application se rechargera automatiquement si vous modifiez l'un des fichiers source.
 # npms: 
 apollo-angular tailwind css
 # Configuration 
