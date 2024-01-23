@@ -4,10 +4,14 @@ Ce projet est une application Angular intégrant Apollo GraphQL pour la gestion 
 # Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-# npms: apollo-angular tailwind css
-# Configuration apollo angular <<app.module.ts>>.
-# Ajouter un service <<graphql.services.ts>>.
-# Creation de 3 trois component <<filmslists,peoplelists,vihuleslists>>et l'utilisation de service graphql dans ces trois derniers.
+# npms: 
+apollo-angular tailwind css
+# Configuration 
+apollo angular <<app.module.ts>>.
+# Ajouter un service 
+<<graphql.services.ts>>.
+# Creation de 3 trois component 
+<<filmslists,peoplelists,vihuleslists>>et l'utilisation de service graphql dans ces trois derniers.
 # Tester les trois components:
 should create the app
 SPEC HAS NO EXPECTATIONS should have the 'Star' title
@@ -26,4 +30,5 @@ VehiclesListComponent
 should handle error when fetching vehicles
 should fetch vehicles on init
 should create
-# Appliquer le tailwind css.
+# Appliquer le Style
+tailwind css.
